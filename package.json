@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "scss-loader": "^0.0.1"
+  },
+  "dependencies": {
+    "sass-loader": "^13.3.1"
+  }
+}
